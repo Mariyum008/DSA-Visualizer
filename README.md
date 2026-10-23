@@ -4,7 +4,7 @@
 
 Block by Block is an interactive DSA visualizer for engineering students and anyone learning to code. Search a problem, press Play, and watch every compare, swap and pointer move, with a plain-language explanation, the matching line of code, and the Big-O cost.
 
-**Live demo:** https://mariyum008.github.io/dsa-visualizer/
+**Live demo:** https://mariyum008.github.io/DSA-Visualizer/#p18
 
 ---
 
